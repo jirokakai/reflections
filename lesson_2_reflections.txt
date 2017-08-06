@@ -1,4 +1,4 @@
-What happens when you initialize a repository? Why do you need to do it?
+﻿What happens when you initialize a repository? Why do you need to do it?
 
 By running git init, a hidden holder ".git" was created. The holder will contaion repository and others for keeping track of git.
 
@@ -6,6 +6,13 @@ By running git init, a hidden holder ".git" was created. The holder will contaio
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+
+
+In the staging area, the snapshot (rather than diff) of modified files in the working directory is added, and staged. 
+
+######################################################################
+
+
 
 How can you use the staging area to make sure you have one commit per logical
 change?
