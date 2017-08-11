@@ -8,7 +8,10 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    Commit is a vital information that you would like to know other to understand our 
+    intention. However, in some circumstances, we might think some information confuse 
+    others.  In this case, we should omit it and manually changing make this happen. If 
+    the remote repository is a kind of backup, automatic up-to-date is optional, though.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
