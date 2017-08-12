@@ -23,7 +23,9 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    Merge with conflict requires manually processing. Therefore, if it can be avoided, we 
+    should avoid such merge, and having a copy of the last known state of the remote would 
+    minimize the possibility of occuring such merge.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
