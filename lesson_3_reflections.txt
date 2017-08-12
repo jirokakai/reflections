@@ -40,4 +40,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When you add new features, set up a new branch is useful, since i) it make sure your attention, 
+    ii) it make distingush such features from others, iii) it let others commit to merge -- through 
+    such process, other would have a chance to understand such features.
