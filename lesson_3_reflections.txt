@@ -30,7 +30,12 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Subject to small changes without taking long time, sharing a single file in the cloud and 
+    modifying such single file by all such as google document is optional. Thus, if a lot of amount 
+    of work such as coding a program are expected, without a certain version control such as git 
+    and gitHub, it's hard to collabrate. In such case, dividing by a certain part of a program with 
+    pre-defining interfaces and functionalities and a sigle programer is responsible for each part 
+    is one of solution.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
